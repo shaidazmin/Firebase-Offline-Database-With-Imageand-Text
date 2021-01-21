@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084859767983",
+    "project_id": "fir-offline-databse",
+    "storage_bucket": "fir-offline-databse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084859767983:android:bdc6387ccbca1acee1485a",
+        "android_client_info": {
+          "package_name": "com.pixfar.firebaseofflinedatabse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084859767983-rb10ee5lj1pvmpu9i26vs1qta0g6e6h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT5qazaElneTjzCulPZZkRv18jXWOBdG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084859767983-rb10ee5lj1pvmpu9i26vs1qta0g6e6h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
